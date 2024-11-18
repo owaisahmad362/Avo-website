@@ -1,10 +1,10 @@
 
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Home from './components/Home/Home';
-import About from './components/About/About';
-import Work from './components/Work/Work';
-import Blog from './components/Blog/Blog';
-import Contact from './components/Contact/Contact';
+import Home from './Components/Home/Home';
+import About from './Components/About/About';
+import Work from './Components/Work/Work';
+import Blog from './Components/Blog/Blog';
+import Contact from './Components/Contact/Contact';
 import OurWorks from './Components/Home/OurWorks';
 import AboutUs from './Components/Home/AboutUs';
 import Welcome from './Components/Home/Welcome';
